@@ -17,7 +17,7 @@ function squareDigits(num){
 ```
 ### Work expirience
 11.01.2015-03.01.2016-Junior Analyst, "НАРРУ" \
-03.02.2016-10.01.2019 -Analyst, "НАРРУ" \
+03.02.2016-10.01.2019 - Analyst, "НАРРУ" \
 10.01.2019-present -Senior Analyst(teamlead), "НАРРУ" 
 
 ### Education
