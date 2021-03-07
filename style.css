@@ -1,0 +1,80 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+h1{
+  font-size:  32px;
+  text-transform: uppercase;
+}
+h2{
+  font-size:24px;
+  text-transform: uppercase;
+  border-top:1px solid black;
+  border-bottom:1px solid black;
+  padding: 12px 0;
+  margin:10px;
+}
+.resume{
+  margin:20px auto;
+  max-width:  1000px;
+  display: grid;
+  grid-template-columns: 40% 1fr;
+  grid-gap:2rem;
+ 
+  padding:4rem;
+  border:1px solid black;
+  
+  }
+.skills-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+}
+.logo{
+  width:20%;
+  height:auto;
+}
+.profile{
+  text-align:center;
+}
+.contact1 {
+  text-align:right;
+  text-transform: uppercase;
+  padding: 6px;
+  border-bottom:1px solid black;
+}
+.timeline .event {
+  display: grid;
+  grid-template-columns: 5ch 1fr
+}
+.skill{
+  margin: 5px 0;
+}
+ul{
+  list-style: none;
+}
+.contact-no-border{
+  border-top:none;
+}
+.content {
+    padding:5px;
+    border-left: 1px solid black;
+}
+.duration{
+  padding-top:5px;
+}
+.event{
+    margin-bottom: 10px;
+}
+.w3c-checks{
+ text-align:center;
+ 
+}
+.rss{
+  width:60px;
+  height:auto;
+}
+.qwer{
+  margin:0 15px;
+}
