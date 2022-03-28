@@ -11,6 +11,7 @@
 ### About myself
 
 Expirienced and self-driven veteran of igaming industry,now looking to change career path into IT.
+
 Fast-learner with good communication skills,looking forward to new opportunities.
 
 ### Skills
@@ -37,4 +38,5 @@ function duplicateEncode(word){
 ### Expirience
 
 Oct.2015-Sep.2019 Esports trader, Marathonbet
+
 Oct 2019-present :Esports trading team lead, Marathonbet
