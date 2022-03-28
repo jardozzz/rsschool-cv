@@ -6,7 +6,7 @@
 * Phone: 8-905-287-44-63 
 * Skype: Jardozzzz
 * Email: Jardozzz@gmail.com
-* Github: [Jardozzz](github.com/Jardozzz)
+* Github: [Jardozzz](https://github.com/jardozzz)
 
 ### About myself
 
@@ -34,3 +34,7 @@ function duplicateEncode(word){
 }
 
 ```
+### Expirience
+
+Oct.2015-Sep.2019 Esports trader, Marathonbet
+Oct 2019-present :Esports trading team lead, Marathonbet
