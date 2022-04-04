@@ -1,1 +1,1 @@
-# rsschool-cv
+https://jardozzz.github.io/rsschool-cv/
